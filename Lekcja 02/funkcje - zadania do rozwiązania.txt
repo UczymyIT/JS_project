@@ -1,0 +1,9 @@
+1. Napisz funkcję, która sprawdza czy podana w jej argumencie liczba jest liczbą pierwszą? Jeżeli podana liczba jest liczbą pierwszą w funkcja ma zwrócić wartośc "true" a jeżeli NIE jest liczbą pierwszą to funkcja ma zwrócić wartość "false".
+
+2. Napisz funkcję, która obliczy średnią liczb z tablicy.
+
+3. Napisz funkcję, która obliczy polę prostokąta.
+
+4. Napisz funkcję, ktora zwraca największą wartość z tablicy.
+
+*5. Napisz funkcję, która przyjmuje dwa argumenty: array: tablicę obiektów, key: nazwę klucza, według którego funkcja powinna grupować obiekty w tablicy. Funkcja powinna zwrócić obiekt, w którym kluczami są wartości danego klucza (argumentu key), a wartościami są tablice obiektów, które mają tę samą wartość dla podanego klucza. 
