@@ -1,0 +1,33 @@
+
+Zadanie nr 1. Tworzenie listy dynamicznie.
+
+   - Stwórz stronę z polem tekstowym i przyciskiem.
+   - Po wpisaniu tekstu w pole i kliknięciu przycisku, dodaj nowy element listy (li) do istniejącej listy (ul lub ol) z wprowadzonym tekstem.
+   - Jeśli pole tekstowe jest puste, wyświetl komunikat w alert, że nie można dodać pustego elementu.
+
+-------------------------------------------------------------------------------------
+
+Zadanie nr 2. Podgląd wprowadzanego tekstu.
+
+	Na stronie umieść:
+    - Pole tekstowe, w którym użytkownik będzie wpisywać tekst.
+    - Pusty element div, który posłuży jako dynamiczny podgląd wprowadzanego tekstu.
+    - Suwak do zmiany rozmiaru czcionki w podglądzie.
+    - Paletę kolorów do wyboru koloru tekstu w podglądzie.
+    - Listę rozwijaną umożliwiającą zmianę stylu czcionki (np. Arial, Courier New, Georgia).
+
+    Funkcjonalność:
+    - Tekst wpisany w pole tekstowe ma być dynamicznie wyświetlany w div.
+    - Suwak umożliwia regulację wielkości czcionki w div.
+    - Paleta kolorów pozwala zmienić kolor tekstu w podglądzie.
+    - Lista rozwijana zmienia rodzaj czcionki w div.
+
+---------------------------------------------------------------------
+
+Zadanie nr 3. Dynamiczne ładowanie opcji w formularzu.
+
+   - Stwórz formularz z rozwijanym menu (select) oraz polem tekstowym.
+   - Nasłuchuj zdarzenia change na rozwijanym menu. Jeśli wybrano opcję "Inne", wyświetl pole tekstowe umożliwiające wpisanie własnej wartości.
+   - Wprowadzone dane w polu tekstowym automatycznie dodawaj jako nową opcję do listy w menu rozwijanym.
+
+---------------------------------------------------------------------
